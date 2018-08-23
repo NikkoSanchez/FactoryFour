@@ -1,0 +1,12 @@
+.chat-container {
+  width: 60%;
+  height: 65vh;
+  overflow-y: scroll;
+  background-color: rgb(54,57,62);
+  color: rgb(254,254,254);
+}
+
+.send-button {
+  position: relative;
+  left: 5px;
+}

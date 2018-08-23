@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "timeStamp": "8/23/2018, 1:05:59 PM",
+      "message": "This is a test"
+    },  
+    {
+      "timeStamp": "8/23/2018, 1:06:59 PM",
+      "message": "First Things First"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:07:59 PM",
+      "message": "I need to fill"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:08:59 PM",
+      "message": "This chat message up"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:09:59 PM",
+      "message": "Just to the point"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:10:59 PM",
+      "message": "Where"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:11:59 PM",
+      "message": "The"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:12:59 PM",
+      "message": "Next typed sentence"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:13:59 PM",
+      "message": "Will then"
+    },  
+    {
+      "timeStamp": "8/23/2018, 1:14:59 PM",
+      "message": "Auto scroll"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:15:59 PM",
+      "message": "To the bottom"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:16:59 PM",
+      "message": "This was accomplished using"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:17:59 PM",
+      "message": "ref tag"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:18:59 PM",
+      "message": "and on message send"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:19:59 PM",
+      "message": "calls function to scroll to bottom"
+    },
+    {
+      "timeStamp": "8/23/2018, 1:20:59 PM",
+      "message": "***Try it out here by creating some new messages"
+    }
+  ]
+}

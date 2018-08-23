@@ -1,0 +1,14 @@
+.flex-container {
+  display: flex;
+  padding-top: 10px;
+}
+
+.flex-item1 {
+  flex: 4;
+  text-align: left;
+}
+
+.flex-item2 {
+  flex: 11;
+  text-align: left;
+}
